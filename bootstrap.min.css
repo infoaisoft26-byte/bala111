@@ -1,0 +1,17 @@
+/* Lightweight compatibility styles.
+   Replace with your authorized Bootstrap build if the wider website needs it. */
+
+.container {
+    width: min(100% - 24px, 1140px);
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.d-flex {
+    display: flex;
+}
+
